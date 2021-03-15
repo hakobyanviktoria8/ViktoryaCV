@@ -1,0 +1,88 @@
+.container{
+    /*border: 1px solid #6c08a3;*/
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    color: #212022;
+}
+/*left*/
+.left .row{
+    padding-left: 10%;
+}
+.left .img{
+    margin: 5% 18% 15% 18%;
+    width: 64%;
+    border-radius: 50%;
+}
+.left .languages img{
+    width: 100%;
+}
+.left ul{
+    padding-left: 15px;
+}
+.left .about_me{
+    padding-right: 20px;
+}
+
+/*right*/
+.right{
+    margin-top: 3%;
+}
+.right h1{
+    text-align: center;
+    font-size: 35px;
+    color: #6c08a3;
+    margin-bottom: 35px;
+}
+.right i, #edabit{
+    color: #6c08a3;
+    font-size: 25px;
+    margin: 5px;
+}
+.right_contact_follow a{
+    text-decoration: none;
+}
+.right_contact_follow a:hover, .right_contact_follow a:active,
+.right_contact_follow a:focus, .right_contact_follow a:visited{
+    text-decoration: none;
+}
+.right_contact_follow{
+    margin-left: 20%;
+    margin-top: 10px;
+}
+
+/*WORK EXPERIENCE*/
+.right p, .left p, .education p{
+    font-size: 1rem;
+}
+.right h2, .left h2, .education h2{
+    font-size: 25px;
+    color: #6c08a3;
+    margin-bottom: 15px;
+}
+.right_work span, .other_experience span{
+    font-size: 20px;
+}
+.right_work h4, .other_experience h4 {
+    font-size: 20px;
+}
+
+/*other_experience*/
+.other_experience a{
+    color: #6c08a3;
+}
+
+/*Education footer*/
+
+tr th, tr td{
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
