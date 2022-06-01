@@ -7,6 +7,9 @@
 }
 
 /*left*/
+.left{
+    margin-top: 2%;
+}
 .left .row {
     padding-left: 10%;
 }
@@ -37,7 +40,7 @@
 
 /*right*/
 .right {
-    margin-top: 3%;
+    margin-top: 2%;
 }
 
 .right h1 {
