@@ -1,14 +1,10 @@
 .container {
-    /*border: 1px solid #6c08a3;*/
-    /*margin-top: 10px;*/
-    /*padding: 10px;*/
-    /*border-radius: 10px;*/
     color: #212022;
 }
 
 /*left*/
 .left{
-    margin-top: 2%;
+    margin-top: 5px;
 }
 .left .row {
     padding-left: 10%;
@@ -40,14 +36,18 @@
 
 /*right*/
 .right {
-    margin-top: 2%;
+    margin-top: 5px;
 }
 
 .right h1 {
     text-align: center;
     font-size: 35px;
     color: #6c08a3;
-    margin-bottom: 35px;
+    margin-bottom: 10px;
+}
+
+.right h3 {
+    font-size: 20px;
 }
 
 .right i, #edabit {
@@ -63,11 +63,6 @@
 .right_contact_follow a:hover, .right_contact_follow a:active,
 .right_contact_follow a:focus, .right_contact_follow a:visited {
     text-decoration: none;
-}
-
-.right_contact_follow {
-    margin-left: 13%;
-    margin-top: 10px;
 }
 
 /*WORK EXPERIENCE*/
