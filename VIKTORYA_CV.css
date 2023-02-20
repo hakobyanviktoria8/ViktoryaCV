@@ -68,6 +68,7 @@
 /*WORK EXPERIENCE*/
 .right p, .left p, .education p {
     font-size: 1rem;
+    margin-bottom: .45rem;
 }
 
 .right h2, .left h2, .education h2 {
@@ -82,10 +83,6 @@
 
 .right_work h4, .other_experience h4 {
     font-size: 20px;
-}
-
-.right_work p {
-    margin-bottom: .45rem;
 }
 
 /*other_experience*/
