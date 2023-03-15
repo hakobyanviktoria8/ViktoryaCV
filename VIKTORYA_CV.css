@@ -66,7 +66,7 @@
 }
 
 /*WORK EXPERIENCE*/
-.right p, .left p, .education p {
+.right p, .left p, .education p, .right_work small {
     font-size: 1rem;
     margin-bottom: .45rem;
 }
@@ -83,6 +83,9 @@
 
 .right_work h4, .other_experience h4 {
     font-size: 20px;
+}
+.right_work h4{
+    margin-bottom: 0px;
 }
 
 /*other_experience*/
